@@ -1,0 +1,12 @@
+body {
+    margin: 5% auto;
+    max-width: 100%;
+    background-image: url("/10.png");
+    background-color: #ce5c5c;; 
+    padding-top: 10%;
+    padding-left: 35%;
+}
+
+h1 {
+    color: aqua;
+}
